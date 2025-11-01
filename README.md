@@ -4,8 +4,8 @@
 **Assignment Portal** is a responsive, role-based web application built with React for managing academic assignments. Students can view, upload PDF submissions, and track deadlines, while admins can create, edit, and monitor submissions with real-time visibility across browser tabs. It supports overdue alerts, file validation, and dynamic syncing without a backend server.
 
 ## Links
-- **GitHub Project Repository**: [github.com/yourusername/assignment-portal](https://github.com/yourusername/assignment-portal) (replace with your repo)
-- **Deployment Link**: [assignment-portal.vercel.app](https://assignment-portal.vercel.app) (deployed on Vercel; replace with your live URL)
+- **GitHub Project Repository**: https://github.com/MeghaSinghall/assignment_dashboard_task
+- **Deployment Link**: https://assignment-dashboard-task.vercel.app/
 
 ## All Details of the Project
 This project simulates a university assignment management system using client-side storage for a single-user/multi-tab experience. Key workflows:
@@ -113,10 +113,10 @@ src/
 
 ## Quick Start
 ### Installation
-1. Clone the repo: `git clone https://github.com/yourusername/assignment-portal.git`
-2. Navigate: `cd assignment-portal`
+1. Clone the repo: `git clone https://github.com/MeghaSinghall/assignment_dashboard_task`
+2. Navigate: `cd assignment_dashboard_task`
 3. Install deps: `npm install` (includes React, Tailwind via CDN, Lucide).
-4. Add Tailwind: Include `<script src="https://cdn.tailwindcss.com"></script>` in `public/index.html`.
+4. Add Tailwind
 
 ### Setup
 - No env vars needed (localStorage only).
